@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web-frame-work.iml" filepath="$PROJECT_DIR$/web-frame-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webwork-common/webwork-common.iml" filepath="$PROJECT_DIR$/webwork-common/webwork-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webwork-dispatcher/webwork-dispatcher.iml" filepath="$PROJECT_DIR$/webwork-dispatcher/webwork-dispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webwork-mongo/webwork-mongo.iml" filepath="$PROJECT_DIR$/webwork-mongo/webwork-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webwork-orm/webwork-orm.iml" filepath="$PROJECT_DIR$/webwork-orm/webwork-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webwork-web/webwork-web.iml" filepath="$PROJECT_DIR$/webwork-web/webwork-web.iml" />
+    </modules>
+  </component>
+</project>
